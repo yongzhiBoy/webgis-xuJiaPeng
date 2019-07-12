@@ -1,0 +1,3238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="Layers" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+	<name>Layers</name>
+	<Snippet maxLines="0"></Snippet>
+	<Style id="PolyStyle04">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>666e6e6e</color>
+			<width>0.4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>661515e8</color>
+		</PolyStyle>
+	</Style>
+	<Style id="PolyStyle03">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>666e6e6e</color>
+			<width>0.4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>662d7af7</color>
+		</PolyStyle>
+	</Style>
+	<Style id="PolyStyle08">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>666e6e6e</color>
+			<width>0.4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>6651cffc</color>
+		</PolyStyle>
+	</Style>
+	<Style id="PolyStyle00">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>666e6e6e</color>
+			<width>0.4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>66c79228</color>
+		</PolyStyle>
+	</Style>
+	<Style id="PolyStyle01">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>66b8ad8c</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="PolyStyle02">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>666e6e6e</color>
+			<width>0.4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>667de3d7</color>
+		</PolyStyle>
+	</Style>
+	<Folder id="FeatureLayer0">
+		<name>社区边界矢量面</name>
+		<Snippet maxLines="0"></Snippet>
+		<Placemark id="ID_00000">
+			<name>水岸星城社区</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>水岸星城社区</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>OID_</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>shuianxingcheng</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FolderPath</td>
+
+<td>hubeidaxue.kml</td>
+
+</tr>
+
+<tr>
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr>
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.033367</td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Le_1</td>
+
+<td>0.033561</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>name_1</td>
+
+<td>水岸星城社区</td>
+
+</tr>
+
+<tr>
+
+<td>partyBuild</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>economics</td>
+
+<td>6</td>
+
+</tr>
+
+<tr>
+
+<td>pubService</td>
+
+<td>3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>stabilize</td>
+
+<td>4</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								114.33917925,30.58206080100007,0 114.339026684,30.58202674800003,0 114.338998455,30.58203637100007,0 114.3388845960001,30.58197523900003,0 114.3348105060001,30.57746129100008,0 114.331867973,30.57435898400007,0 114.331776181,30.57424551500003,0 114.3319104400001,30.57431549400008,0 114.3332388440001,30.57470920200007,0 114.333573889,30.57473212300005,0 114.3340878250001,30.57364813800007,0 114.3341062980001,30.57354232200004,0 114.3341818500001,30.57349636500004,0 114.3342563160001,30.57348617500004,0 114.3343745090001,30.57353269600003,0 114.3355694600001,30.57371171300008,0 114.335879803,30.57381011100006,0 114.3370226180001,30.57402673100006,0 114.3372155510001,30.57407593300007,0 114.3377434680001,30.57426348600006,0 114.3381423970001,30.57436189900005,0 114.3385003520001,30.57445197600003,0 114.3387137890001,30.57457221900006,0 114.3388075360001,30.57534868200003,0 114.3391472860001,30.57553057900003,0 114.3392437490001,30.57537005400008,0 114.339292739,30.57532147500007,0 114.3393852370001,30.57525821000007,0 114.339488844,30.57522398100008,0 114.339571768,30.57516676700004,0 114.3396241530001,30.57515046200007,0 114.339699695,30.57515516600006,0 114.3397609210001,30.57517504300006,0 114.339838522,30.57528293300004,0 114.3398687250001,30.57529501900007,0 114.340011889,30.57528021800005,0 114.3400503390001,30.57527702000004,0 114.3401058540001,30.57527693300006,0 114.340147289,30.57528256800003,0 114.3403840940001,30.57534352800008,0 114.3404368680001,30.57535318500004,0 114.3405333230001,30.57537345200007,0 114.3405831580001,30.57541223800007,0 114.340712219,30.57548673900005,0 114.3408683260001,30.57562977500004,0 114.340784039,30.57580130000002,0 114.3408919110001,30.57617814700006,0 114.3408931070001,30.57644482000006,0 114.3409263880001,30.57651754200003,0 114.3409024870001,30.57669268100005,0 114.3409436510001,30.57689534200006,0 114.3409494320001,30.57690948200008,0 114.3409453060001,30.57693623600005,0 114.3409468090001,30.57696259000005,0 114.3409483180001,30.57698904100005,0 114.340949829,30.57701561900007,0 114.3409510250001,30.57703706100006,0 114.340952525,30.57706395600008,0 114.3409654420001,30.57708981400003,0 114.3409780930001,30.57711036600006,0 114.3409907800001,30.57713098000005,0 114.3410159340001,30.57716698500008,0 114.3410337730001,30.57717650000006,0 114.3410526880001,30.57720231000008,0 114.341070959,30.57721732000005,0 114.3410838870001,30.57723825700003,0 114.34110837,30.57725838700003,0 114.3411210170001,30.57727396000007,0 114.3411336920001,30.57728956900007,0 114.3411583450001,30.57730985400008,0 114.3411834750001,30.57733573500008,0 114.341195467,30.57734039800005,0 114.3412149210001,30.57736683500008,0 114.3412277910001,30.57738265800003,0 114.341246938,30.57740366600007,0 114.342397019,30.57865928100006,0 114.3436863600001,30.58006693300007,0 114.3441116150001,30.58032713200004,0 114.3439470110001,30.58042388500007,0 114.3438084160001,30.58047228400005,0 114.343590787,30.58052766900005,0 114.3433761750001,30.58056819900003,0 114.343238206,30.58059118400007,0 114.3431497480001,30.58063748500008,0 114.3430354130001,30.58066966200006,0 114.3429204700001,30.58070201000004,0 114.3426396530001,30.58078849500004,0 114.3424053910001,30.58078676400004,0 114.3423878210001,30.58078820200007,0 114.342213686,30.58080921700002,0 114.342203175,30.58081013300006,0 114.342085169,30.58080747800005,0 114.3419873180001,30.58083867200003,0 114.3418835370001,30.58083700100008,0 114.34186592,30.58083833600006,0 114.341859781,30.58084521800004,0 114.3416545650001,30.58088327800004,0 114.3414904540001,30.58091132700002,0 114.3413682400001,30.58093283200003,0 114.3413545870001,30.58094027900006,0 114.3412003340001,30.58095752300005,0 114.3410709870001,30.58097627200004,0 114.3408572500001,30.58101155000003,0 114.3407280470001,30.58105025900005,0 114.340639794,30.58107100300003,0 114.340551879,30.58109982200006,0 114.340460492,30.58112745800003,0 114.3403593850001,30.58115319300003,0 114.340268775,30.58117622100008,0 114.3401685780001,30.58121511600007,0 114.3400593010001,30.58124416700008,0 114.339963226,30.58127274600003,0 114.3396955380001,30.58123550100004,0 114.33917925,30.58206080100007,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00001">
+			<name>湖北大学社区</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>湖北大学社区</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>OID_</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>hubeidaxue</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FolderPath</td>
+
+<td>hubeidaxue.kml</td>
+
+</tr>
+
+<tr>
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr>
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.043053</td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Le_1</td>
+
+<td>0.043127</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>name_1</td>
+
+<td>湖北大学社区</td>
+
+</tr>
+
+<tr>
+
+<td>partyBuild</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>economics</td>
+
+<td>4</td>
+
+</tr>
+
+<tr>
+
+<td>pubService</td>
+
+<td>4</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>stabilize</td>
+
+<td>5</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle01</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								114.3312533930001,30.57686803800004,0 114.3315685600001,30.57705177000003,0 114.3318460850001,30.57721197700005,0 114.3320936820001,30.57739589600004,0 114.332591567,30.57775078100008,0 114.333823132,30.57862709600005,0 114.3340108440001,30.57878856000008,0 114.3340047510001,30.57894441200006,0 114.3326283680001,30.58172282900006,0 114.3320163670001,30.58308598400004,0 114.3319073680001,30.58327128200006,0 114.3317998170001,30.58347814800004,0 114.3298942980001,30.58515204400004,0 114.3236313900001,30.57981448600003,0 114.322753053,30.57907238700005,0 114.324389802,30.57779896800003,0 114.324599464,30.57762951400002,0 114.324599699,30.57762932400004,0 114.3246979810001,30.57734452200003,0 114.3242995490001,30.57702119200008,0 114.323939954,30.57672780900003,0 114.3234805870001,30.57706863200008,0 114.323335154,30.57714578900004,0 114.3232323250001,30.57714987100007,0 114.323163324,30.57712504600005,0 114.32287422,30.57691785100008,0 114.3227727730001,30.57682541100007,0 114.322296582,30.57647256800004,0 114.3218461660001,30.57678999300003,0 114.321723084,30.57680303000007,0 114.321660776,30.57676085200006,0 114.3212336490001,30.57626434200006,0 114.321181129,30.57618579200005,0 114.321201715,30.57607814500005,0 114.323175824,30.57446827200005,0 114.323294817,30.57439908500004,0 114.3234717040001,30.57435760200008,0 114.323652872,30.57435078800006,0 114.325275386,30.57480750400003,0 114.3257927230001,30.57495312800006,0 114.3257983010001,30.57495226100008,0 114.325896875,30.57493693900005,0 114.3264207100001,30.57436062400006,0 114.326803731,30.57393896400004,0 114.3271681980001,30.57351752600005,0 114.3272258850001,30.57352877500006,0 114.3272825150001,30.57352597200003,0 114.327358944,30.57355566400003,0 114.327459639,30.57357054000005,0 114.3276289470001,30.57361189600005,0 114.3278465460001,30.57366233300007,0 114.3280659180001,30.57370307300005,0 114.3282526720001,30.57374896800008,0 114.3283809640001,30.57377271700005,0 114.3285188960001,30.57380698100008,0 114.3286593470001,30.57383240700005,0 114.3287699160001,30.57384841700008,0 114.328914141,30.57383319300004,0 114.329014945,30.57383451100003,0 114.3290936220001,30.57384227200004,0 114.3291755360001,30.57385546800003,0 114.3292744250001,30.57386484200004,0 114.3293394790001,30.57382840200006,0 114.32935148,30.57375957000005,0 114.329366055,30.57369228800008,0 114.329385738,30.57362417900004,0 114.329414326,30.57357204000006,0 114.329493639,30.57355127100004,0 114.3295803440001,30.57355344700005,0 114.3296834570001,30.57357835500005,0 114.3298109770001,30.57361762100004,0 114.3299331730001,30.57366771600005,0 114.3314003580001,30.57412341300005,0 114.331398378,30.57412769900003,0 114.3310641480001,30.57485140300003,0 114.3303301310001,30.57644075800005,0 114.3308863100001,30.57670047500005,0 114.3312533930001,30.57686803800004,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00002">
+			<name>油料所社区</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>油料所社区</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>OID_</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>youliaosuo</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FolderPath</td>
+
+<td>hubeidaxue.kml</td>
+
+</tr>
+
+<tr>
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr>
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.044315</td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Le_1</td>
+
+<td>0.044599</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>name_1</td>
+
+<td>油料所社区</td>
+
+</tr>
+
+<tr>
+
+<td>partyBuild</td>
+
+<td>3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>economics</td>
+
+<td>3</td>
+
+</tr>
+
+<tr>
+
+<td>pubService</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>stabilize</td>
+
+<td>3</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle02</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								114.3365384260001,30.58616593200003,0 114.3358204100001,30.58704849600008,0 114.3350737110001,30.58797154400003,0 114.334073545,30.58887344800007,0 114.33263848,30.58750175700004,0 114.332117132,30.58704645300004,0 114.3298942980001,30.58515204400004,0 114.3317998170001,30.58347814800004,0 114.3319073680001,30.58327128200006,0 114.3320163670001,30.58308598400004,0 114.3326283680001,30.58172282900006,0 114.3340047510001,30.57894441200006,0 114.3340108440001,30.57878856000008,0 114.333823132,30.57862709600005,0 114.332591567,30.57775078100008,0 114.3320936820001,30.57739589600004,0 114.3318460850001,30.57721197700005,0 114.3315685600001,30.57705177000003,0 114.3312533930001,30.57686803800004,0 114.3308863100001,30.57670047500005,0 114.3303301310001,30.57644075800005,0 114.3310641480001,30.57485140300003,0 114.331398378,30.57412769900003,0 114.3314003580001,30.57412341300005,0 114.331776181,30.57424551500003,0 114.331867973,30.57435898400007,0 114.3348105060001,30.57746129100008,0 114.3388845960001,30.58197523900003,0 114.338998455,30.58203637100007,0 114.339026684,30.58202674800003,0 114.33917925,30.58206080100007,0 114.3411496220001,30.58348490900005,0 114.3408436830001,30.58401240000006,0 114.3405226970001,30.58452107200003,0 114.3400086620001,30.58518710500005,0 114.339515697,30.58602819700008,0 114.33916491,30.58588344700008,0 114.338941242,30.58577216900005,0 114.33831276,30.58532021300005,0 114.3376121220001,30.58481860700005,0 114.3365384260001,30.58616593200003,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00003">
+			<name>徐东社区</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>徐东社区</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>OID_</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>xudong</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FolderPath</td>
+
+<td>hubeidaxue.kml</td>
+
+</tr>
+
+<tr>
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr>
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.030612</td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Le_1</td>
+
+<td>0.030996</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>name_1</td>
+
+<td>徐东社区</td>
+
+</tr>
+
+<tr>
+
+<td>partyBuild</td>
+
+<td>5</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>economics</td>
+
+<td>3</td>
+
+</tr>
+
+<tr>
+
+<td>pubService</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>stabilize</td>
+
+<td>6</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle03</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								114.345603898,30.58670912200006,0 114.3413323420001,30.59000941400007,0 114.337773953,30.59241044200007,0 114.334073545,30.58887344800007,0 114.3350737110001,30.58797154400003,0 114.3358204100001,30.58704849600008,0 114.3365384260001,30.58616593200003,0 114.3376121220001,30.58481860700005,0 114.33831276,30.58532021300005,0 114.338941242,30.58577216900005,0 114.33916491,30.58588344700008,0 114.339515697,30.58602819700008,0 114.3400086620001,30.58518710500005,0 114.3405226970001,30.58452107200003,0 114.3408436830001,30.58401240000006,0 114.3411496220001,30.58348490900005,0 114.343375389,30.58509360700003,0 114.3438355410001,30.58542618700005,0 114.345603898,30.58670912200006,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00004">
+			<name>团结社区</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>团结社区</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>4</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>OID_</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>tuanjie</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FolderPath</td>
+
+<td>hubeidaxue.kml</td>
+
+</tr>
+
+<tr>
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr>
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.018645</td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Le_1</td>
+
+<td>0.018944</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>name_1</td>
+
+<td>团结社区</td>
+
+</tr>
+
+<tr>
+
+<td>partyBuild</td>
+
+<td>6</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>economics</td>
+
+<td>4</td>
+
+</tr>
+
+<tr>
+
+<td>pubService</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>stabilize</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle04</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								114.3452768180001,30.58089434600004,0 114.3452577930001,30.58106155400003,0 114.3449650770001,30.58136628200003,0 114.344700328,30.58144488800008,0 114.3444636260001,30.58152920600003,0 114.3442489920001,30.58175884300005,0 114.3440218280001,30.58208610200006,0 114.343652731,30.58288095800003,0 114.3436739920001,30.58295095500006,0 114.3437317850001,30.58314122900003,0 114.343741474,30.58343408700006,0 114.3439690890001,30.58372720500006,0 114.344090474,30.58384227400006,0 114.3441441660001,30.58394395900007,0 114.3443581670001,30.58409759900007,0 114.344565468,30.58430399100007,0 114.3448312940001,30.58449134800003,0 114.3448930170001,30.58455123000005,0 114.3447474860001,30.58480435000007,0 114.3440601420001,30.58502477500008,0 114.3438355410001,30.58542618700005,0 114.343375389,30.58509360700003,0 114.3411496220001,30.58348490900005,0 114.33917925,30.58206080100007,0 114.3396955380001,30.58123550100004,0 114.339963226,30.58127274600003,0 114.3400593010001,30.58124416700008,0 114.3401685780001,30.58121511600007,0 114.340268775,30.58117622100008,0 114.3403593850001,30.58115319300003,0 114.340460492,30.58112745800003,0 114.340551879,30.58109982200006,0 114.340639794,30.58107100300003,0 114.3407280470001,30.58105025900005,0 114.3408572500001,30.58101155000003,0 114.3410709870001,30.58097627200004,0 114.3412003340001,30.58095752300005,0 114.3413545870001,30.58094027900006,0 114.3413682400001,30.58093283200003,0 114.3414904540001,30.58091132700002,0 114.3416545650001,30.58088327800004,0 114.341859781,30.58084521800004,0 114.34186592,30.58083833600006,0 114.3418835370001,30.58083700100008,0 114.3419873180001,30.58083867200003,0 114.342085169,30.58080747800005,0 114.342203175,30.58081013300006,0 114.342213686,30.58080921700002,0 114.3423878210001,30.58078820200007,0 114.3424053910001,30.58078676400004,0 114.3426396530001,30.58078849500004,0 114.3429204700001,30.58070201000004,0 114.3430354130001,30.58066966200006,0 114.3431497480001,30.58063748500008,0 114.343238206,30.58059118400007,0 114.3433761750001,30.58056819900003,0 114.343590787,30.58052766900005,0 114.3438084160001,30.58047228400005,0 114.3439470110001,30.58042388500007,0 114.3441116150001,30.58032713200004,0 114.344261627,30.58038089500008,0 114.3452768180001,30.58089434600004,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00005">
+			<name>国际城社区</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>国际城社区</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>5</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>OID_</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>guojicheng</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FolderPath</td>
+
+<td>hubeidaxue.kml</td>
+
+</tr>
+
+<tr>
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr>
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.034802</td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Le_1</td>
+
+<td>0.034855</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>name_1</td>
+
+<td>国际城社区</td>
+
+</tr>
+
+<tr>
+
+<td>partyBuild</td>
+
+<td>3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>economics</td>
+
+<td>5</td>
+
+</tr>
+
+<tr>
+
+<td>pubService</td>
+
+<td>4</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>stabilize</td>
+
+<td>6</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle02</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								114.3475049660001,30.57628744800007,0 114.3478547990001,30.57711811000007,0 114.3483840470001,30.57818460000004,0 114.3490192500001,30.57902730500007,0 114.3514208700001,30.58185516300006,0 114.351416316,30.58225071200008,0 114.345603898,30.58670912200006,0 114.3438355410001,30.58542618700005,0 114.3440601420001,30.58502477500008,0 114.3447474860001,30.58480435000007,0 114.3448930170001,30.58455123000005,0 114.3448312940001,30.58449134800003,0 114.344565468,30.58430399100007,0 114.3443581670001,30.58409759900007,0 114.3441441660001,30.58394395900007,0 114.344090474,30.58384227400006,0 114.3439690890001,30.58372720500006,0 114.343741474,30.58343408700006,0 114.3437317850001,30.58314122900003,0 114.3436739920001,30.58295095500006,0 114.343652731,30.58288095800003,0 114.3440218280001,30.58208610200006,0 114.3442489920001,30.58175884300005,0 114.3444636260001,30.58152920600003,0 114.344700328,30.58144488800008,0 114.3449650770001,30.58136628200003,0 114.3452577930001,30.58106155400003,0 114.3452768180001,30.58089434600004,0 114.344261627,30.58038089500008,0 114.3441116150001,30.58032713200004,0 114.3436863600001,30.58006693300007,0 114.342397019,30.57865928100006,0 114.3418985230001,30.57811504100005,0 114.3467735950001,30.57498802900005,0 114.3475049660001,30.57628744800007,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00006">
+			<name>喻家湖社区</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>喻家湖社区</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>6</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>OID_</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>yujiahu</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FolderPath</td>
+
+<td>hubeidaxue.kml</td>
+
+</tr>
+
+<tr>
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr>
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.035995</td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Le_1</td>
+
+<td>0.036127</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>name_1</td>
+
+<td>喻家湖社区</td>
+
+</tr>
+
+<tr>
+
+<td>partyBuild</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>economics</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>pubService</td>
+
+<td>5</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>stabilize</td>
+
+<td>5</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle01</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								114.3246979810001,30.57734452200003,0 114.324599699,30.57762932400004,0 114.324599464,30.57762951400002,0 114.324389802,30.57779896800003,0 114.322753053,30.57907238700005,0 114.3199747570001,30.57689679800006,0 114.31977527,30.57666860600006,0 114.3175183190001,30.57408689800008,0 114.3175687530001,30.57378132300005,0 114.3177698650001,30.57347811400007,0 114.318076925,30.57325956800003,0 114.318284993,30.57294261800007,0 114.3184689190001,30.57272539200005,0 114.3184530430001,30.57245091200008,0 114.318469422,30.57216478700008,0 114.3185597070001,30.57194409400006,0 114.318806213,30.57168654500003,0 114.319034836,30.57152603500003,0 114.3192621160001,30.57133461900003,0 114.31954525,30.57111322300005,0 114.3216282850001,30.56953788900006,0 114.322066422,30.56953203100005,0 114.3222676900001,30.56955618200004,0 114.3224113560001,30.56976200800006,0 114.3224801440001,30.56993664200007,0 114.3225774570001,30.57014556000008,0 114.3226244900001,30.57036405700006,0 114.3226209710001,30.57063865300006,0 114.3227058470001,30.57074837000005,0 114.3227970730001,30.57097883900008,0 114.32282162,30.57122105800005,0 114.3226338410001,30.57139886600004,0 114.322587805,30.57170957500006,0 114.324680423,30.57259053600006,0 114.3271681980001,30.57351752600005,0 114.326803731,30.57393896400004,0 114.3264207100001,30.57436062400006,0 114.325896875,30.57493693900005,0 114.3257983010001,30.57495226100008,0 114.3257927230001,30.57495312800006,0 114.325275386,30.57480750400003,0 114.323652872,30.57435078800006,0 114.3234717040001,30.57435760200008,0 114.323294817,30.57439908500004,0 114.323175824,30.57446827200005,0 114.321201715,30.57607814500005,0 114.321181129,30.57618579200005,0 114.3212336490001,30.57626434200006,0 114.321660776,30.57676085200006,0 114.321723084,30.57680303000007,0 114.3218461660001,30.57678999300003,0 114.322296582,30.57647256800004,0 114.3227727730001,30.57682541100007,0 114.32287422,30.57691785100008,0 114.323163324,30.57712504600005,0 114.3232323250001,30.57714987100007,0 114.323335154,30.57714578900004,0 114.3234805870001,30.57706863200008,0 114.323939954,30.57672780900003,0 114.3242995490001,30.57702119200008,0 114.3246979810001,30.57734452200003,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00007">
+			<name>长轮社区</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>长轮社区</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>7</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>OID_</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>changlun</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FolderPath</td>
+
+<td>hubeidaxue.kml</td>
+
+</tr>
+
+<tr>
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr>
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.019281</td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Le_1</td>
+
+<td>0.019573</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>name_1</td>
+
+<td>长轮社区</td>
+
+</tr>
+
+<tr>
+
+<td>partyBuild</td>
+
+<td>3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>economics</td>
+
+<td>3</td>
+
+</tr>
+
+<tr>
+
+<td>pubService</td>
+
+<td>6</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>stabilize</td>
+
+<td>3</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle02</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								114.321457943,30.58175661800004,0 114.3192965710001,30.58298201900004,0 114.3192952650001,30.58298053400006,0 114.3160670030001,30.57931092700005,0 114.3199779240001,30.57690042100006,0 114.3199747570001,30.57689679800006,0 114.322753053,30.57907238700005,0 114.3236313900001,30.57981448600003,0 114.32325345,30.58015875400002,0 114.3222115980001,30.58110778300005,0 114.3221893000001,30.58110589800003,0 114.321457943,30.58175661800004,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00008">
+			<name>惠誉花园社区</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>惠誉花园社区</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>8</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>OID_</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>huiyuhuayuan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FolderPath</td>
+
+<td>hubeidaxue.kml</td>
+
+</tr>
+
+<tr>
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr>
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.019386</td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Le_1</td>
+
+<td>0.01938</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>name_1</td>
+
+<td>惠誉花园社区</td>
+
+</tr>
+
+<tr>
+
+<td>partyBuild</td>
+
+<td>4</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>economics</td>
+
+<td>6</td>
+
+</tr>
+
+<tr>
+
+<td>pubService</td>
+
+<td>4</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>stabilize</td>
+
+<td>4</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle08</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								114.3297519710001,30.58601595700003,0 114.3313996920001,30.58740033600003,0 114.3313945260001,30.58741522700007,0 114.326064402,30.59112303100005,0 114.325868879,30.59086729300003,0 114.3257951180001,30.59064564900007,0 114.32555473,30.59038883700004,0 114.324087673,30.58826126800005,0 114.3240857450001,30.58809202400006,0 114.324173018,30.58795764600006,0 114.3242839080001,30.58782011400007,0 114.3243776940001,30.58770379400005,0 114.3245807950001,30.58753587400003,0 114.3247732960001,30.58732508600008,0 114.3252454310001,30.58698196800003,0 114.3254347110001,30.58690742000005,0 114.325552162,30.58686116200005,0 114.3255636900001,30.58685388100003,0 114.325638516,30.58680662400008,0 114.326294576,30.58634438300004,0 114.3263601000001,30.58631017300007,0 114.3271754850001,30.58582888100005,0 114.3273753840001,30.58571088800005,0 114.3274418740001,30.58567164100003,0 114.3275909990001,30.58558159800003,0 114.3276272840001,30.58552905600005,0 114.327675397,30.58545938700007,0 114.328219157,30.58500053300003,0 114.3282207670001,30.58499880500006,0 114.3297519710001,30.58601595700003,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00009">
+			<name>秦园路社区</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>秦园路社区</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>9</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>OID_</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>qinyuanlu</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FolderPath</td>
+
+<td>hubeidaxue.kml</td>
+
+</tr>
+
+<tr>
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr>
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.029624</td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Le_1</td>
+
+<td>0.03095</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>name_1</td>
+
+<td>秦园路社区</td>
+
+</tr>
+
+<tr>
+
+<td>partyBuild</td>
+
+<td>4</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>economics</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>pubService</td>
+
+<td>3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>stabilize</td>
+
+<td>6</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle08</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								114.337773953,30.59241044200007,0 114.3319215020001,30.59708039800006,0 114.32669551,30.59183739100007,0 114.326302121,30.59143395900003,0 114.326064402,30.59112303100005,0 114.3313945260001,30.58741522700007,0 114.3313996920001,30.58740033600003,0 114.332117132,30.58704645300004,0 114.33263848,30.58750175700004,0 114.334073545,30.58887344800007,0 114.337773953,30.59241044200007,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00010">
+			<name>三角路社区</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>三角路社区</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>10</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>OID_</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>sanjiaolu</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FolderPath</td>
+
+<td>hubeidaxue.kml</td>
+
+</tr>
+
+<tr>
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr>
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.026663</td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Le_1</td>
+
+<td>0.027094</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>name_1</td>
+
+<td>三角路社区</td>
+
+</tr>
+
+<tr>
+
+<td>partyBuild</td>
+
+<td>4</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>economics</td>
+
+<td>3</td>
+
+</tr>
+
+<tr>
+
+<td>pubService</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>stabilize</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle08</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								114.3298942980001,30.5851520440001,0 114.332117132,30.5870464530001,0 114.3313996920001,30.58740033600014,0 114.3297519710002,30.58601595700009,0 114.3282207670002,30.58499880500011,0 114.3265625700002,30.58389729400017,0 114.325764046,30.58335578500004,0 114.3244090080001,30.58398814700013,0 114.3237300080001,30.58315010300009,0 114.323704396,30.58316604400005,0 114.3235815960001,30.58324247700011,0 114.3234996330001,30.58330112900018,0 114.323495274,30.58329620600017,0 114.322956566,30.582687701,0 114.3229553680001,30.58268634799998,0 114.3236230110002,30.58225037500006,0 114.323210719,30.58191661000006,0 114.3222115980002,30.58110778300005,0 114.32325345,30.58015875400014,0 114.3236313900001,30.57981448600003,0 114.3298942980001,30.5851520440001,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00011">
+			<name>秦臻路社区</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>秦臻路社区</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>11</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>OID_</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>qinzhenlu</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FolderPath</td>
+
+<td>hubeidaxue.kml</td>
+
+</tr>
+
+<tr>
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr>
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.024819</td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Le_1</td>
+
+<td>0.025244</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>name_1</td>
+
+<td>秦臻路社区</td>
+
+</tr>
+
+<tr>
+
+<td>partyBuild</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>economics</td>
+
+<td>6</td>
+
+</tr>
+
+<tr>
+
+<td>pubService</td>
+
+<td>5</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>stabilize</td>
+
+<td>5</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle01</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								114.3282207670003,30.58499880500011,0 114.3282191570002,30.58500053300008,0 114.3276753970001,30.58545938700019,0 114.3276272840003,30.58552905600005,0 114.3275909990002,30.58558159800009,0 114.3274418740001,30.58567164099998,0 114.3273753840001,30.58571088800017,0 114.3271754850001,30.58582888100005,0 114.3263601000001,30.58631017300007,0 114.326294576,30.58634438300004,0 114.325638516,30.58680662400019,0 114.3255636900001,30.58685388100014,0 114.325552162,30.58686116200011,0 114.3254347110002,30.58690742000005,0 114.3252454310001,30.58698196800015,0 114.3247732960001,30.58732508600014,0 114.3245807950002,30.58753587400014,0 114.3243776940002,30.58770379399999,0 114.3242839080001,30.58782011400007,0 114.3241730180001,30.58795764600006,0 114.3240857450003,30.58809202400017,0 114.3240876730001,30.58826126800011,0 114.3239525090003,30.58811846000003,0 114.3210496060002,30.58497471700008,0 114.3192965710001,30.58298201900004,0 114.3214579430002,30.58175661800016,0 114.3221893000001,30.58110589800015,0 114.3222115980002,30.58110778300005,0 114.323210719,30.58191661000006,0 114.3236230110002,30.58225037500006,0 114.3229553680001,30.58268634799998,0 114.322956566,30.582687701,0 114.323495274,30.58329620600017,0 114.3234996330001,30.58330112900018,0 114.3235815960001,30.58324247700011,0 114.323704396,30.58316604400005,0 114.3237300080001,30.58315010300009,0 114.3244090080001,30.58398814700013,0 114.325764046,30.58335578500004,0 114.3265625700003,30.58389729400017,0 114.3282207670003,30.58499880500011,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00012">
+			<name>诚善里社区</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>诚善里社区</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>12</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>OID_</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>chengshanli</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FolderPath</td>
+
+<td>hubeidaxue.kml</td>
+
+</tr>
+
+<tr>
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr>
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.026822</td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Le_1</td>
+
+<td>0.026856</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>name_1</td>
+
+<td>诚善里社区</td>
+
+</tr>
+
+<tr>
+
+<td>partyBuild</td>
+
+<td>5</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>economics</td>
+
+<td>5</td>
+
+</tr>
+
+<tr>
+
+<td>pubService</td>
+
+<td>6</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>stabilize</td>
+
+<td>6</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle03</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								114.3319215020001,30.59708039800006,0 114.3275218430001,30.60032355400006,0 114.3266875750001,30.59994063600004,0 114.325788685,30.59921841600004,0 114.3250441350001,30.59837962900008,0 114.3243420560001,30.59759963500005,0 114.323869939,30.59698353100004,0 114.3235124250001,30.59648015900007,0 114.3232284660001,30.59588811300006,0 114.323118988,30.59517438100005,0 114.3228179070001,30.59440162800007,0 114.3223077380001,30.59363089400006,0 114.323523313,30.59286958900003,0 114.3236478280001,30.59278564800007,0 114.323845666,30.59266358000009,0 114.3238721280001,30.59264725200006,0 114.3242397590001,30.59272351400006,0 114.325532143,30.59190629700004,0 114.326302121,30.59143395900003,0 114.32669551,30.59183739100007,0 114.3319215020001,30.59708039800006,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00013">
+			<name>月亮湾社区</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>月亮湾社区</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>13</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>OID_</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>yueliangwan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FolderPath</td>
+
+<td>hubeidaxue.kml</td>
+
+</tr>
+
+<tr>
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr>
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.047967</td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Le_1</td>
+
+<td>0.048558</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>name_1</td>
+
+<td>月亮湾社区</td>
+
+</tr>
+
+<tr>
+
+<td>partyBuild</td>
+
+<td>6</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>economics</td>
+
+<td>3</td>
+
+</tr>
+
+<tr>
+
+<td>pubService</td>
+
+<td>4</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>stabilize</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle04</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								114.323845666,30.59266358000009,0 114.3236478280001,30.59278564800007,0 114.323523313,30.59286958900003,0 114.3223077380001,30.59363089400006,0 114.3228179070001,30.59440162800007,0 114.323118988,30.59517438100005,0 114.3232284660001,30.59588811300006,0 114.3235124250001,30.59648015900007,0 114.323869939,30.59698353100004,0 114.3243420560001,30.59759963500005,0 114.3250441350001,30.59837962900008,0 114.325788685,30.59921841600004,0 114.3266875750001,30.59994063600004,0 114.3275218430001,30.60032355400006,0 114.324998273,30.60191176100005,0 114.322425887,30.59883335300003,0 114.320923966,30.59735142400007,0 114.3184778560001,30.59407468000006,0 114.3184369730001,30.59366997600006,0 114.31786449,30.59172427100003,0 114.317485333,30.59113915100005,0 114.316720924,30.58996276400006,0 114.315256209,30.58782523800005,0 114.3210496060001,30.58497471700008,0 114.323952509,30.58811846000003,0 114.324087673,30.58826126800005,0 114.32555473,30.59038883700004,0 114.3257951180001,30.59064564900007,0 114.325868879,30.59086729300003,0 114.326064402,30.59112303100005,0 114.326302121,30.59143395900003,0 114.325532143,30.59190629700004,0 114.3242397590001,30.59272351400006,0 114.3238721280001,30.59264725200006,0 114.323845666,30.59266358000009,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00014">
+			<name>武车四村社区</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>武车四村社区</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>14</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>OID_</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>wuchesicun</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FolderPath</td>
+
+<td>hubeidaxue.kml</td>
+
+</tr>
+
+<tr>
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr>
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.032621</td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Le_1</td>
+
+<td>0.033234</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>name_1</td>
+
+<td>武车四村社区</td>
+
+</tr>
+
+<tr>
+
+<td>partyBuild</td>
+
+<td>3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>economics</td>
+
+<td>6</td>
+
+</tr>
+
+<tr>
+
+<td>pubService</td>
+
+<td>4</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>stabilize</td>
+
+<td>3</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle02</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								114.3133278840001,30.57619733500007,0 114.3160670030001,30.57931092700005,0 114.3192952650001,30.58298053400006,0 114.3192965710001,30.58298201900004,0 114.3210496060001,30.58497471700008,0 114.315256209,30.58782523800005,0 114.310856508,30.58215827100003,0 114.312776933,30.58126054700006,0 114.3126730610001,30.58069465100004,0 114.3127444260001,30.57985520400007,0 114.3126669530001,30.57904905300006,0 114.312737512,30.57788543500004,0 114.3127731390001,30.57650156900007,0 114.3128651820001,30.57605592800007,0 114.3131512100001,30.57599650700007,0 114.3133278840001,30.57619733500007,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00015">
+			<name>水岸国际社区</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>水岸国际社区</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>15</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>OID_</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>shuianguoji</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FolderPath</td>
+
+<td>hubeidaxue.kml</td>
+
+</tr>
+
+<tr>
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr>
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.039325</td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Le_1</td>
+
+<td>0.03997</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>name_1</td>
+
+<td>水岸国际社区</td>
+
+</tr>
+
+<tr>
+
+<td>partyBuild</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>economics</td>
+
+<td>3</td>
+
+</tr>
+
+<tr>
+
+<td>pubService</td>
+
+<td>5</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>stabilize</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								114.3210235910001,30.56929966800004,0 114.3216282850001,30.56953788900006,0 114.31954525,30.57111322300005,0 114.3192621160001,30.57133461900003,0 114.319034836,30.57152603500003,0 114.318806213,30.57168654500003,0 114.3185597070001,30.57194409400006,0 114.318469422,30.57216478700008,0 114.3184530430001,30.57245091200008,0 114.3184689190001,30.57272539200005,0 114.318284993,30.57294261800007,0 114.318076925,30.57325956800003,0 114.3177698650001,30.57347811400007,0 114.3175687530001,30.57378132300005,0 114.3175183190001,30.57408689800008,0 114.31977527,30.57666860600006,0 114.3199747570001,30.57689679800006,0 114.3199779240001,30.57690042100006,0 114.3160670030001,30.57931092700005,0 114.3133278840001,30.57619733500007,0 114.3141711860001,30.57554226200006,0 114.3143274920001,30.57504520200007,0 114.3145322280001,30.57471361400008,0 114.3168092090001,30.57352345300006,0 114.3132356430001,30.56942909600008,0 114.3136484590001,30.56738283300007,0 114.313843441,30.56696185300007,0 114.3142091550001,30.56690339600004,0 114.3145752040001,30.56698589100006,0 114.3149072690001,30.56711851400007,0 114.3157605010001,30.56763524300004,0 114.315813775,30.56767264000007,0 114.3164178060001,30.56802729600003,0 114.3168623910001,30.56823744700006,0 114.317161464,30.56863737300006,0 114.317504126,30.56880763000004,0 114.3178856280001,30.56889326200007,0 114.3181296340001,30.56895747600004,0 114.318598637,30.56899629100008,0 114.3189159680001,30.56898237400003,0 114.3194592790001,30.56895122200007,0 114.3199641560001,30.56886153100004,0 114.320384407,30.56894017500002,0 114.3210235910001,30.56929966800004,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
