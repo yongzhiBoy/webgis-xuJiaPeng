@@ -85,38 +85,6 @@ function adjust3dTilesPosition(
   tileset.modelMatrix = Cesium.Matrix4.fromTranslation(translation)
 }
 
-// //调整 3dTiles模型大小
-// function changeScale(){
-
-// }
-
-// function getAngleX(tileset, tranformMatrix4, rotateX) {
-//   var angleX = Cesium.Matrix3.fromRotationX(Cesium.Math.toRadians(rotateX))
-//   rotate3dTiles(tileset, tranformMatrix4, angleX)
-// }
-// function getAngleY(tileset, tranformMatrix4, rotateY) {
-//   var angleY = Cesium.Matrix3.fromRotationY(Cesium.Math.toRadians(rotateY))
-//   rotate3dTiles(tileset, tranformMatrix4, angleY)
-// }
-// function getAngleZ(tileset, tranformMatrix4, rotateZ) {
-//   var angleZ = Cesium.Matrix3.fromRotationZ(Cesium.Math.toRadians(rotateZ))
-//   rotate3dTiles(tileset, tranformMatrix4, angleZ)
-// }
-
-// // 旋转 3dTiles模型
-// function rotate3dTiles(tileset, tranformMatrix4, angleValue) {
-//   var a = tranformMatrix4
-//   var s = Cesium.Matrix4.getTranslation(a, new Cesium.Cartesian3())
-//   var _s = Cesium.Transforms.eastNorthUpToFixedFrame(s)
-//   var angle = angleValue
-//   var modelMatrix = Cesium.Matrix4.multiplyByMatrix3(
-//     _s,
-//     angle,
-//     new Cesium.Matrix4()
-//   )
-//   tileset._root.transform = modelMatrix
-// }
-
 // headingPitchRoll;旋转 3dTiles模型
 function rotate(tileset, tranformMatrix4, heading, pitch, roll) {
   if (!tileset._root) {
