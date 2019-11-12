@@ -92,8 +92,6 @@ export default {
   data() {
     // 这里存放数据
     return {
-      viewer: {},
-      tileset: {},
       height: 0,
       longitude: 0,
       latitude: 0,
